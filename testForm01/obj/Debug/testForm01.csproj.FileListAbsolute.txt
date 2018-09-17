@@ -1,0 +1,9 @@
+C:\Users\developer\Desktop\testForm01\testForm01\bin\Debug\testForm01.exe.config
+C:\Users\developer\Desktop\testForm01\testForm01\obj\Debug\testForm01.csprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\testForm01\testForm01\obj\Debug\testForm01.Form1.resources
+C:\Users\developer\Desktop\testForm01\testForm01\obj\Debug\testForm01.Properties.Resources.resources
+C:\Users\developer\Desktop\testForm01\testForm01\obj\Debug\testForm01.csproj.GenerateResource.Cache
+C:\Users\developer\Desktop\testForm01\testForm01\bin\Debug\testForm01.exe
+C:\Users\developer\Desktop\testForm01\testForm01\bin\Debug\testForm01.pdb
+C:\Users\developer\Desktop\testForm01\testForm01\obj\Debug\testForm01.exe
+C:\Users\developer\Desktop\testForm01\testForm01\obj\Debug\testForm01.pdb
